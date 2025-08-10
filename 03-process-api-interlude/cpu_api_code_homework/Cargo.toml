@@ -1,0 +1,39 @@
+[package]
+name = "cpu_api_code_homework"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+libc = "0.2.174"
+
+[[bin]]
+name = "sol1"
+path = "src/sol1.rs"
+
+[[bin]]
+name = "sol2"
+path = "src/sol2.rs"
+
+[[bin]]
+name = "sol3"
+path = "src/sol3.rs"
+
+[[bin]]
+name = "sol4"
+path = "src/sol4.rs"
+
+[[bin]]
+name = "sol5"
+path = "src/sol5.rs"
+
+[[bin]]
+name = "sol6"
+path = "src/sol6.rs"
+
+[[bin]]
+name = "sol7"
+path = "src/sol7.rs"
+
+[[bin]]
+name = "sol8"
+path = "src/sol8.rs"
